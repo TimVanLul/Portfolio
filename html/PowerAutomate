@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <title>Power Automate</title>
+    <link rel="stylesheet" href="/Portfolio/css/Layout.css" />
+  </head>
+
+  <body>
+    <header>
+      <ul>
+        <li><a href="/Portfolio/index.html">Home</a></li>
+        <li><a href="WindowsServer.html">Windows Server</a></li>
+        <li><a href="PowerAutomate.html">Power Automate Desktop</a></li>
+      </ul>
+    </header>
+    <div>
+      <h1>Power Automate</h1>
+      <p>
+       Op deze pagina staan verschillende stromen die bruikbaar zijn in Power Automate Desktop. Alle stromen hebben te maken met het Remote Desktop Protocol van Microsoft.
+      </p>
+      <p class="topwhite">
+        In de eerste stroom handelt de host alle acties af.
+      </p>
+      <p><a href="/Portfolio/Files/PA/Stroom1.md" target="_blank">Stroom 1 host machine</a></p>
+      
+      <p class="topwhite">
+        In de tweede stroom zorgt de host voor connectie en hierna voert de remote server handelingen uit via web-elementen.
+      </p>
+      <p><a href="/Portfolio/Files/PA/Stroom21.md" target="_blank">Stroom 2 host machine</a></p>
+      <p><a href="/Portfolio/Files/PA/Stroom22.md" target="_blank">Stroom 2 remote server</a></p>
+      
+      <p class="topwhite">
+        De derde stroom vormt de host een connectie waarna de remote server handelingen uitvoert via interface-elementen.
+      </p>
+      <p><a href="/Portfolio/Files/PA/Stroom31.md" target="_blank">Stroom 3 host machine</a></p>
+      <p><a href="/Portfolio/Files/PA/Stroom32.md" target="_blank">Stroom 3 remote server</a></p>
+      
+      <p class="topwhite">
+        Bij de vierde stroom maakt de host verbinding met de remote server die acties uitvoert via afbeeldingen.
+      </p>
+      <p><a href="/Portfolio/Files/PA/Stroom41.md" target="_blank">Stroom 4 host machine</a></p>
+      <p><a href="/Portfolio/Files/PA/Stroom42.md" target="_blank">Stroom 4 remote server</a></p>
+    </div>
+  </body>
+</html>
